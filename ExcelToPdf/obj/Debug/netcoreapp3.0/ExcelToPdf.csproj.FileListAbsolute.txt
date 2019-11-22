@@ -1,0 +1,13 @@
+/Users/tran.ba.vinh.son/Projects/ExcelToPdf/ExcelToPdf/bin/Debug/netcoreapp3.0/ExcelToPdf
+/Users/tran.ba.vinh.son/Projects/ExcelToPdf/ExcelToPdf/bin/Debug/netcoreapp3.0/ExcelToPdf.deps.json
+/Users/tran.ba.vinh.son/Projects/ExcelToPdf/ExcelToPdf/bin/Debug/netcoreapp3.0/ExcelToPdf.runtimeconfig.json
+/Users/tran.ba.vinh.son/Projects/ExcelToPdf/ExcelToPdf/bin/Debug/netcoreapp3.0/ExcelToPdf.runtimeconfig.dev.json
+/Users/tran.ba.vinh.son/Projects/ExcelToPdf/ExcelToPdf/bin/Debug/netcoreapp3.0/ExcelToPdf.dll
+/Users/tran.ba.vinh.son/Projects/ExcelToPdf/ExcelToPdf/bin/Debug/netcoreapp3.0/ExcelToPdf.pdb
+/Users/tran.ba.vinh.son/Projects/ExcelToPdf/ExcelToPdf/bin/Debug/netcoreapp3.0/Microsoft.Office.Interop.Excel.dll
+/Users/tran.ba.vinh.son/Projects/ExcelToPdf/ExcelToPdf/obj/Debug/netcoreapp3.0/ExcelToPdf.csprojAssemblyReference.cache
+/Users/tran.ba.vinh.son/Projects/ExcelToPdf/ExcelToPdf/obj/Debug/netcoreapp3.0/ExcelToPdf.AssemblyInfoInputs.cache
+/Users/tran.ba.vinh.son/Projects/ExcelToPdf/ExcelToPdf/obj/Debug/netcoreapp3.0/ExcelToPdf.AssemblyInfo.cs
+/Users/tran.ba.vinh.son/Projects/ExcelToPdf/ExcelToPdf/obj/Debug/netcoreapp3.0/ExcelToPdf.csproj.CopyComplete
+/Users/tran.ba.vinh.son/Projects/ExcelToPdf/ExcelToPdf/obj/Debug/netcoreapp3.0/ExcelToPdf.dll
+/Users/tran.ba.vinh.son/Projects/ExcelToPdf/ExcelToPdf/obj/Debug/netcoreapp3.0/ExcelToPdf.pdb

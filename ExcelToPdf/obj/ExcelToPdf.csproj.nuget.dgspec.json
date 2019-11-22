@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tran.ba.vinh.son/Projects/ExcelToPdf/ExcelToPdf/ExcelToPdf.csproj": {}
+  },
+  "projects": {
+    "/Users/tran.ba.vinh.son/Projects/ExcelToPdf/ExcelToPdf/ExcelToPdf.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tran.ba.vinh.son/Projects/ExcelToPdf/ExcelToPdf/ExcelToPdf.csproj",
+        "projectName": "ExcelToPdf",
+        "projectPath": "/Users/tran.ba.vinh.son/Projects/ExcelToPdf/ExcelToPdf/ExcelToPdf.csproj",
+        "packagesPath": "/Users/tran.ba.vinh.son/.nuget/packages/",
+        "outputPath": "/Users/tran.ba.vinh.son/Projects/ExcelToPdf/ExcelToPdf/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tran.ba.vinh.son/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.Office.Interop.Excel": {
+              "target": "Package",
+              "version": "[15.0.4795.1000, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
